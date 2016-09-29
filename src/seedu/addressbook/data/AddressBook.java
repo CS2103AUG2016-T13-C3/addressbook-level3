@@ -81,6 +81,15 @@ public class AddressBook {
         syncTagsWithMasterList(toAdd);
         allPersons.add(toAdd);
     }
+    
+    /**
+     * 
+     * @param toAdd
+     */
+    public void editPerson(Person toAdd) {
+		// TODO Auto-generated method stub
+		
+	}
 
     /**
      * Adds a tag to the list of tags present in the address book.
